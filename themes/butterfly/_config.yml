@@ -80,14 +80,14 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/pdx.gif
+  img: https://pic.imgdb.cn/item/60d9f26c5132923bf8f56569.gif
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/oh.png
+index_img: https://pic.imgdb.cn/item/629638590947543129d674f1.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -97,7 +97,8 @@ archive_img:
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/interstellar3.jpg
+tag_img:
+ https://pic.imgdb.cn/item/629638590947543129d674dd.jpg
 
 # The banner image of tag page
 # format:
@@ -106,7 +107,8 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/interstellar1.jpg
+category_img:
+ https://pic.imgdb.cn/item/629638960947543129d6c858.png
 
 # The banner image of category page
 # format:
@@ -492,7 +494,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/code.png)
+background: url(https://pic.imgdb.cn/item/629638960947543129d6c84b.png)
 
 # Footer Background
 footer_bg: true
