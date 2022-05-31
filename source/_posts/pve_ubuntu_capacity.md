@@ -5,8 +5,8 @@ date: 2022-04-25 19:17:12
 tags: NAS Linux
 categories: 琐
 description: -- PVE下ubuntu的扩容
-top_img: http://qiniu.cetacean.top/pic/20225232127202cabbanw3n.pngcapacity.png
-cover: http://qiniu.cetacean.top/pic/20225232127202cabbanw3n.pngcapacity.png
+top_img: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/capcity.png
+cover: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/capcity.png
 copyright_author: CETACEAN
 copyright_author_href: github.com/cetaceanMercuries
 copyright_url: https://blog.cetacean.top/pve_ubuntu_capacity

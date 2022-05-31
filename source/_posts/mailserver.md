@@ -5,8 +5,8 @@ date: 2022-04-25 19:17:12
 tags: docker 通讯
 categories: 琐
 description: -- 邮件服务器
-top_img: http://qiniu.cetacean.top/pic/2022523205108pzh63dduxh.pngdockermail.png
-cover: http://qiniu.cetacean.top/pic/2022523205108pzh63dduxh.pngdockermail.png
+top_img: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/mailserver.png
+cover: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/mailserver.png
 copyright_author: CETACEAN
 copyright_author_href: github.com/cetaceanMercuries
 copyright_url: https://blog.cetacean.top/mailserver

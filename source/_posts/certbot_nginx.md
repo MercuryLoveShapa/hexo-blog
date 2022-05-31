@@ -5,8 +5,8 @@ date: 2022-05-12 12:22:14
 tags: docker nginx vps
 categories: 琐
 description: -- docker下的证书自动续期与代理
-top_img: http://qiniu.cetacean.top/pic/2022523210518hv4oqon6wy.pngdocker-nginx-cerbot.png
-cover: http://qiniu.cetacean.top/pic/2022523210518hv4oqon6wy.pngdocker-nginx-cerbot.png
+top_img: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/certbot.png
+cover: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/certbot.png
 copyright_author: CETACEAN
 copyright_author_href: github.com/cetaceanMercuries
 copyright_url: https://blog.cetacean.top/cerbot_nginx

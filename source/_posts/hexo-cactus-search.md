@@ -5,8 +5,8 @@ date: 2022-04-05 14:38:52
 tags: blog 
 categories: 琐
 description: -- hexo cactus 搜索模块
-top_img: http://qiniu.cetacean.top/pic/2022523212005l46bybuwmq.pngcactus.png
-cover: http://qiniu.cetacean.top/pic/2022523212005l46bybuwmq.pngcactus.png
+top_img: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/catus.png
+cover: https://cdn.jsdelivr.net/gh/cetaceanMercurius/Images@master/blog/catus.png
 copyright_author: CETACEAN
 copyright_author_href: github.com/cetaceanMercuries
 copyright_url: https://blog.cetacean.top/cerbot_nginx
